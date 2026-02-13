@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Devywb</title><link>/posts/</link><description>Recent content in Posts on Devywb</description><generator>Hugo</generator><language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Devywb</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Devywb</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 09:59:52 +0800</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杂记-20260213</title>
+      <link>/posts/20260213/</link>
+      <pubDate>Fri, 13 Feb 2026 09:59:52 +0800</pubDate>
+      <guid>/posts/20260213/</guid>
+      <description>&lt;p&gt;距离放假还有一天的时间，很多工位已经空了。这应该是我工作以来，过年回去最晚的一次了。&lt;/p&gt;&#xA;&lt;h2 id=&#34;个人网站&#34;&gt;个人网站&lt;/h2&gt;&#xA;&lt;p&gt;又又又一次，搭建了个人网站。时间过得太快，过眼云烟一般，什么都没记录的话，仿佛从未发生过一样。&lt;/p&gt;&#xA;&lt;p&gt;平时自己也喜欢看一些记录生活的博客。比如&lt;a href=&#34;https://61.life/&#34;&gt;61’s life&lt;/a&gt;和&lt;a href=&#34;https://www.leolin86.com/&#34;&gt;拾风草堂&lt;/a&gt;。&lt;/p&gt;&#xA;&lt;p&gt;不用长篇大论，真实的记录就行。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
